@@ -22,28 +22,28 @@ Here's a visual walkthrough of the app's main features:
 ![Empty State](1.png)
 
 2. **Adding First Task**: Creating a new task with title and optional description
-![Adding Task](screenshots/2.png)
+![Adding Task](2.png)
 
 3. **Task Created**: Successful task creation notification
-![Task Created](screenshots/3.png)
+![Task Created](3.png)
 
 4. **Task List**: Displaying the newly created task with completion status
-![Task List](screenshots/4.png)
+![Task List](4.png)
 
 5. **Edit Task Screen**: Interface for modifying existing tasks
-![Edit Task](screenshots/5.png)
+![Edit Task](5.png)
 
 6. **Task Completion**: Visual feedback when marking a task as complete
-![Task Complete](screenshots/6.png)
+![Task Complete](6.png)
 
 7. **Multiple Tasks**: Managing multiple tasks with completion tracking
-![Multiple Tasks](screenshots/7.png)
+![Multiple Tasks](7.png)
 
 8. **Add Task Screen**: Clean and intuitive task creation interface
-![Add Task Interface](screenshots/8.png)
+![Add Task Interface](8.png)
 
 9. **Task Counter**: Shows total vs completed tasks (2/3) in the header
-![Task Counter](screenshots/9.png)
+![Task Counter](9.png)
 
 Each screenshot demonstrates the app's modern dark theme, smooth animations, and user-friendly interface.
 
