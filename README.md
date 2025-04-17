@@ -19,7 +19,7 @@ A modern, feature-rich todo app built with Flutter and GetX state management.
 Here's a visual walkthrough of the app's main features:
 
 1. **Empty State**: Clean interface showing "No tasks yet" with a purple accent
-![Empty State](screenshots/1.png)
+![Empty State](1.png)
 
 2. **Adding First Task**: Creating a new task with title and optional description
 ![Adding Task](screenshots/2.png)
