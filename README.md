@@ -22,7 +22,6 @@ Here's a visual walkthrough of the app's main features:
 <img src="1.png" alt="drawing" width="300"/>
 
 2. **Adding First Task**: Creating a new task with title and optional description
-![Adding Task](2.png)]
 <img src="2.png" alt="drawing" width="300"/>
 
 3. **Task Created**: Successful task creation notification
