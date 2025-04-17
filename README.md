@@ -19,33 +19,32 @@ A modern, feature-rich todo app built with Flutter and GetX state management.
 Here's a visual walkthrough of the app's main features:
 
 1. **Empty State**: Clean interface showing "No tasks yet" with a purple accent
-![Empty State](1.png)
-<img src="1.png" alt="drawing" width="200"/>
+<img src="1.png" alt="drawing" width="300"/>
 
+2. **Adding First Task**: Creating a new task with title and optional description
+![Adding Task](2.png)]
+<img src="2.png" alt="drawing" width="300"/>
 
-3. **Adding First Task**: Creating a new task with title and optional description
-![Adding Task](2.png)
+3. **Task Created**: Successful task creation notification
+<img src="3.png" alt="drawing" width="300"/>
 
-4. **Task Created**: Successful task creation notification
-![Task Created](3.png)
+4. **Task List**: Displaying the newly created task with completion status
+<img src="4.png" alt="drawing" width="300"/>
 
-5. **Task List**: Displaying the newly created task with completion status
-![Task List](4.png)
+5. **Edit Task Screen**: Interface for modifying existing tasks
+<img src="5.png" alt="drawing" width="300"/>
 
-6. **Edit Task Screen**: Interface for modifying existing tasks
-![Edit Task](5.png)
+6. **Task Completion**: Visual feedback when marking a task as complete
+<img src="6.png" alt="drawing" width="300"/>
 
-7. **Task Completion**: Visual feedback when marking a task as complete
-![Task Complete](6.png)
+7. **Multiple Tasks**: Managing multiple tasks with completion tracking
+<img src="7.png" alt="drawing" width="300"/>
 
-8. **Multiple Tasks**: Managing multiple tasks with completion tracking
-![Multiple Tasks](7.png)
+8. **Add Task Screen**: Clean and intuitive task creation interface
+<img src="8.png" alt="drawing" width="300"/>
 
-9. **Add Task Screen**: Clean and intuitive task creation interface
-![Add Task Interface](8.png)
-
-10. **Task Counter**: Shows total vs completed tasks (2/3) in the header
-![Task Counter](9.png)
+9. **Task Counter**: Shows total vs completed tasks (2/3) in the header
+<img src="9.png" alt="drawing" width="300"/>
 
 Each screenshot demonstrates the app's modern dark theme, smooth animations, and user-friendly interface.
 
